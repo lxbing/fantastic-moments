@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the fantastic moment feature.
+ */
+
+include_once('fantastic_moment.features.inc');
